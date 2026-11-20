@@ -148,11 +148,15 @@ The decoded file will be saved as `decoded.txt` when the original secret file ex
 ## 12. Output Screenshots
 
 ### Encoding Process
+<img width="637" height="427" alt="image" src="https://github.com/user-attachments/assets/c79b4bf3-491a-4abe-81b3-7026b0acd349" />
+
 <img width="506" height="357" alt="image" src="https://github.com/user-attachments/assets/a461503f-fa42-4281-9f65-d796d6ab3220" />
 
 
 
 ### Decoding Process
+<img width="642" height="237" alt="image" src="https://github.com/user-attachments/assets/18c0e090-140b-4fe4-aa02-cb7c5f37af12" />
+
 <img width="591" height="132" alt="image" src="https://github.com/user-attachments/assets/f9461852-b639-47e6-8a45-4b02b18ccc0c" />
 
 
